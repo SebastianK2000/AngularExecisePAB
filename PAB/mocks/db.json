@@ -1,0 +1,19 @@
+{
+    "cars-all": [
+        {
+            "brand": "BNW",
+            "model": "355i",
+            "imgSrc": "../img/sls.jpg"
+        },
+        {
+            "brand": "Mercedes",
+            "model": "SLS",
+            "imgSrc": "img/bmw-355i.jpg"
+        },
+        {
+            "brand": "Audi",
+            "model": "RS4",
+            "imgSrc": "img/bmw-355i.jpg"
+        }
+    ]
+}
